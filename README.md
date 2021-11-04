@@ -1,19 +1,11 @@
 # components
 
-## Project setup
-```
-npm install
-```
+## 3 Nov
+Add Card.vue
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 4 Nov
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Add newButton.vue
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- import scss
+  - fixed version problem
